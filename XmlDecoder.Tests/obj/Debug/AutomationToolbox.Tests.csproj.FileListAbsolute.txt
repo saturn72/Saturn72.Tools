@@ -1,0 +1,14 @@
+F:\AutomationToolbox\AutomationToolbox.Tests\obj\Debug\AutomationToolbox.Tests.csprojResolveAssemblyReference.cache
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\AutomationToolbox.Tests.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\AutomationToolbox.Tests.pdb
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\AutomationToolbox.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\nunit.framework.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\AutoMapper.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\AutomationToolbox.pdb
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\nunit.framework.xml
+F:\AutomationToolbox\AutomationToolbox.Tests\obj\Debug\AutomationToolbox.Tests.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\obj\Debug\AutomationToolbox.Tests.pdb
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\XmlTextDecoder\dictionary.csv
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\Saturn72.Extensions.dll
+F:\AutomationToolbox\AutomationToolbox.Tests\bin\Debug\Saturn72.Extensions.pdb

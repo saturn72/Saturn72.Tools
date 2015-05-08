@@ -1,0 +1,8 @@
+C:\Dev\Saturn72.Tools\XsltTransformer\bin\Debug\source.xml
+C:\Dev\Saturn72.Tools\XsltTransformer\bin\Debug\xsl.xsl
+C:\Dev\Saturn72.Tools\XsltTransformer\bin\Debug\XsltTransformer.exe.config
+C:\Dev\Saturn72.Tools\XsltTransformer\bin\Debug\XsltTransformer.exe
+C:\Dev\Saturn72.Tools\XsltTransformer\bin\Debug\XsltTransformer.pdb
+C:\Dev\Saturn72.Tools\XsltTransformer\obj\Debug\XsltTransformer.csprojResolveAssemblyReference.cache
+C:\Dev\Saturn72.Tools\XsltTransformer\obj\Debug\XsltTransformer.exe
+C:\Dev\Saturn72.Tools\XsltTransformer\obj\Debug\XsltTransformer.pdb
