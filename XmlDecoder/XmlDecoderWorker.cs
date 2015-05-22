@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace Saturn72.XmlTextDecoder
 {
-    public class XmlDecoder
+    public class XmlDecoderWorker
     {
         public static void RemoveHexCharacters(string source, string destination, bool overwrite = true)
         {
