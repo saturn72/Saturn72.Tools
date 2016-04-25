@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
-using Saturn72.AutomationToolbox.XmlTextDecoder;
+using Saturn72.XmlTextDecoder;
+
 namespace AutomationToolbox.Tests.XmlTextDecoder
 {
     [TestFixture]
@@ -38,7 +39,7 @@ namespace AutomationToolbox.Tests.XmlTextDecoder
 "&oplus;\n    &otimes;\n    &perp;\n    &sdot;\n    &lceil;\n    &rceil;\n    &lfloor;\n    &rfloor;\n    &lang;\n    &rang;\n" +
 "&loz;\n    &spades;\n    &clubs;\n    &hearts;\n    &diams;\n    ]]";
 
-            var actualValue = XmlDecoder.ReplaceAllXmlReferences(source, @"F:\AutomationToolbox\XmlTextDecoder\dictionary.csv");
+            var actualValue = XmlDecoder.ReplaceAllXmlReferences(source, null);
 
             Assert.AreEqual(expectedValue, actualValue);
         }
